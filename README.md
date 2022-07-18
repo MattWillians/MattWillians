@@ -2,17 +2,15 @@
 
 ###
 
-<h3 align="center">💻 Someone who's always working on something! 🖥</h3>
+<h4 align="center">💻 Someone who's always working on something! 🖥</h4>
 
 ###
-
-<h1 align="left"></h1>
-
-###
-
-<br clear="both">
 
 <h3 align="left">About Me: 🙍‍♂️</h3>
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif"  />
 
 ###
 
@@ -51,12 +49,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif"  />
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=contatomatheuswilliansbr@gmail.com&logo=gmail&label=How to reach me:&color=FF0004&logoColor=black&labelColor=FFFFFF&style=for-the-badge" height="40" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/matheus-willians-549778223/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=My&color=0077B5&logoColor=white&labelColor=000&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -75,12 +68,7 @@
   <a href="https://discord.gg/Rn9vQ4ub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Server&logo=discord&label=Our&color=7289DA&logoColor=white&labelColor=000000&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MattWillians.MattWillians&left_color=black&right_color=purple&left_text=PROFILE VIEWS"  />
+  <img src="https://img.shields.io/static/v1?message=contatomatheuswilliansbr@gmail.com&logo=gmail&label=How to reach me:&color=FF0004&logoColor=black&labelColor=FFFFFF&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
 
 ###
@@ -100,12 +88,8 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/MattWillians/MattWillians/main/.github/workflows/main.yml" alt="Snake animation" />
-
-###
-
-<h1 align="left"></h1>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"  />
+</div>
 
 ###
