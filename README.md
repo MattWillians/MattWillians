@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">print(''Hello World!!'') <br><br>my name is Matheus a.k.a Matt, Im an systems developer and a person passionate by the world of technology! Always learning more and more to expand my knowledge.<br><br>Remember:<br>Being a developer is a trip where the next stop is the solution to a problem" - Thales Valentine</p>
+<p align="left">print(''Hello World!!'') <br><br>my name is Matheus a.k.a Matt, Im an system developer and a person passionate by the world of technology! Always learning more and more to expand my knowledge.<br><br>Remember:<br>Being a developer is a trip where the next stop is the solution to a problem" - Thales Valentine</p>
 
 ###
 
