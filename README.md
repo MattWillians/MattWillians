@@ -61,11 +61,9 @@
   <a href="https://linktr.ee/manomatt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=my&color=00796B&logoColor=&labelColor=000000&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
-  <a href="https://www.instagram.com/manomatt_artworks/" target="_blank">
+  <a href="https://www.instagram.com/mano_matt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Social&color=E4405F&logoColor=white&labelColor=000000&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/Rn9vQ4ub" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Server&logo=discord&label=Our&color=7289DA&logoColor=white&labelColor=000000&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=contatomatheuswilliansbr@gmail.com&logo=gmail&label=How to reach me:&color=FF0004&logoColor=black&labelColor=FFFFFF&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
