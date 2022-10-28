@@ -52,12 +52,6 @@
   <a href="https://www.linkedin.com/in/matheus-willians-549778223/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=My&color=0077B5&logoColor=white&labelColor=000&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/19481834/matheus-willians" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=&labelColor=000000&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCKLzBeN9Djhx0hWJGAq3acQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CHANNEL&logo=youtube&label=MY&color=FF0000&logoColor=white&labelColor=000000&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
   <a href="https://linktr.ee/manomatt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=my&color=00796B&logoColor=&labelColor=000000&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
