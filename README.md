@@ -1,3 +1,11 @@
+###
+
+<div align="center">
+  <img src="https://s3.sa-east-1.amazonaws.com/remotar-assets-prod/company-profile-covers/cl9ivb9zi00ah04v55hlw1no0.jpg" />
+</div>
+
+###
+
 <h1 align="center">Hello Dev's! Name's Matt 👓</h1>
 
 ###
@@ -5,6 +13,7 @@
 <h4 align="center">💻 Someone who's always working on something! 🖥</h4>
 
 ###
+
 
 <h3 align="left">About Me: 🙍‍♂️</h3>
 
@@ -14,7 +23,7 @@
 
 ###
 
-<p align="left">print(''Hello World!!'') <br><br>My name is Matheus a.k.a Matt, Im a system developer and a person passionate by the world of technology! Always learning more and more to expand my knowledge.<br><br>Remember:<br>Being a developer is a trip where the next stop is the solution to a problem" - Thales Valentine</p>
+<p align="left">print(''Hello World!!'') <br><br>My name is Matheus a.k.a Matt, Im a system developer and a person passionate by the world of technology! Always learning more and more to expand my knowledge.<br><br>Languages:<br>- English (Advanced)<br> - Spanish (Basic)<br> - Portuguese (Fluent)<br><br>Remember:<br>“Knowledge is power” – Francis Bacon</p>
 
 ###
 
@@ -33,19 +42,20 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" width="52" alt="MySQL"  />
+  <img src="https://hekanblogi.files.wordpress.com/2014/04/power-bi-logo.png?w=150&h=150" height="52" width="52" alt="Power BI"  />
+  <img src="https://s3-symbol-logo.tradingview.com/fair-isaac--600.png" height="52" width="52" alt="FICO RMA & DMPS"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" width="52" alt="java logo"  />
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="52" width="52" alt="MySQL"  />
 </div>
 
 ###
 
 <h2 align="left">You can find me at: 📱</h2>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-willians-549778223/" target="_blank">
@@ -59,17 +69,6 @@
   </a>
   </a>
   <img src="https://img.shields.io/static/v1?message=contatomatheuswilliansbr@gmail.com&logo=gmail&label=How to reach me:&color=FF0004&logoColor=black&labelColor=FFFFFF&style=for-the-badge" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=false&username=MattWillians" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=false&custom_title=My%20GITHUB%20Stats!&username=MattWillians" />
 </div>
 
 ###
