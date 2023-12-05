@@ -55,6 +55,17 @@
 <h1 align="left"></h1>
 
 ###
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattWillians&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MattWillians&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+
+<h1 align="left"></h1>
 
 <br clear="both">
 
@@ -67,38 +78,9 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattWillians&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="250" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MattWillians&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
-</div>
-
 ###
 
 <br clear="both">
-
-<h1 align="left"></h1>
-
-###
-
-<img align="right" height="522" src="https://38.media.tumblr.com/6eb96007c89d1638b88de4b4e7ceb27f/tumblr_nv3lo8vGr51ugh6wno1_500.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/314pkvtf6bo265wuaqsj5ahj62xi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314pkvtf6bo265wuaqsj5ahj62xi&count=8" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
 
 <h1 align="left"></h1>
 
