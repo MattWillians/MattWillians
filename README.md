@@ -8,11 +8,6 @@
 
 <h1 align="left"></h1>
 
-###
-
-<img align="right" height="522" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif"  />
-
-###
 
 <p align="left">Desenvolvedor Big Data, com mais de 1 ano de experiência, focado em FICO: DMPS (Decision Management Plataform Streaming) & Blaze Advisor - RMA (Rule Maintenance Aplication). <br><br>Tenho autonomia e pro atividade para encarar os desafios que me forem colocados, buscando sempre expandir meus conhecimentos na área. <br><br><br>Em paralelo a isto, busco estar atualizado na área para poder entregar meu melhor desempenho, nas áreas de analytics e Big data. Lembrando que em desenvolvimento de software, a evolução é constante!!<br><br>- Inglês Avançado;<br>- Espanhol Intermediário;<br>-Português Fluente.</p>
 
