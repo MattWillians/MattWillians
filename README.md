@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="460" src="https://i.pinimg.com/originals/0c/a8/96/0ca8968070257635299b1fe038384838.gif"  />
+<img align="right" height="522" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148"  />
 
 ###
 
@@ -97,10 +97,6 @@
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
