@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://shoppingjequiti.com.br/wp-content/uploads/2014/08/banner-bradesco1-665x2361.jpg" alt="logo" />
+  <img src="https://media.licdn.com/dms/image/C5609AQEHE258ffr1vQ/company-featured_1128_635/0/1654781720725?e=1707955200&v=beta&t=K8a1iq3xcO2Zf1nNhFty7R05zqjiZu6L-G-MI2jg0dA" alt="logo" />
 </div>
 
 ###
